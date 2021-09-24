@@ -1,6 +1,6 @@
 <div align=center>
   
-  <img src = "https://github.com/Matheus-gs/Data-Science/blob/matheus-gs/Big-data-image.jpg?raw=true"/>
+  <img src = "https://github.com/Matheus-gs/Front-end/blob/matheus-gs/dev-image-unsplash.jpg?raw=true"/>
   
   <h1> Welcome to my Front-End projects!</h1>
   <h4> Here you can take a look in all of my projects related to Web Development</h4>
