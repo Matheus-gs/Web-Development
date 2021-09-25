@@ -12,7 +12,7 @@
   <img src = "https://img.shields.io/badge/-GitHub-2a2a2a?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/users/matheus-gs/"/>
 </div>
 
-<h2>Tecnologias utilizadas: </h2>
+<h2>Technologies that i've used: </h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
